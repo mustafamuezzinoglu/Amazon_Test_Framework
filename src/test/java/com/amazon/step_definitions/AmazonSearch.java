@@ -24,7 +24,7 @@ public class AmazonSearch {
     @Then("user is on the target page what written in the search box")
     public void user_is_on_the_target_page_what_written_in_the_search_box() {
 
-        Assert.assertEquals(Driver.getDriver().getTitle(), "Amazon.com : iphone");
+        Assert.assertEquals(Driver.getDriver().getTitle(), "Amazon.com.tr : iphone");
 
     }
 
