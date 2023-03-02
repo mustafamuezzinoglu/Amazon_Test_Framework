@@ -1,3 +1,4 @@
+
 Feature: Amazon search feature
 
   User-Story : User can search anything inside the search box.
